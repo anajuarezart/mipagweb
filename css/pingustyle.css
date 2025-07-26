@@ -1,0 +1,89 @@
+body{
+    background-image: url('/img/diferentes-cristales-de-hielo.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.pingutitle {
+background-color: aliceblue;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+font-size: large;
+text-align: center;
+color: blue;
+margin: 60px 650px 60px 650px;
+padding: 10px 20px 20px 10px;
+border-radius: 25px;
+}
+
+.pingusquareleft{
+    background-color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    font-size: medium;
+    text-align: center;
+    margin: 30px;
+    margin-left: 700px;
+    margin-right: 700px;
+    padding: 20px;
+    color: aliceblue;
+    border: 4px solid black;
+    border-radius: 25px;
+    position: relative;
+    /*left: -600px;*/
+}
+
+.pingusquareright{
+    background-color: chartreuse;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: medium;
+    text-align: center;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    margin-left: 700px;
+    margin-right: 700px;
+    padding: 20px;
+    color:rgb(243, 8, 125);
+    border: 5px dotted black;
+    border-radius: 25px;
+    position: relative;
+    /*right: -600px;
+    top: -100px;*/
+}
+
+.pinguboton{
+    background-color: cadetblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: larger;
+    text-align: center;
+    color: aliceblue;
+    margin-top: 30px;
+    margin-left: 800px;
+    margin-right: 800px;
+    padding: 15px;
+    border: 4px dashed black;
+    border-radius: 25px;
+    position: relative;
+    /*top: -100px;
+    right: 300px;*/
+}
+
+.pingufooter{
+    background-color: aliceblue;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    font-weight: bolder;
+    padding: 30px;
+    margin: 30px;
+    margin-left: 800px;
+    margin-right: 800px;
+    border-radius: 25px;
+}
+
+.imagecuicui{
+    border-radius: 25px;
+}
